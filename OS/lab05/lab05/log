@@ -1,0 +1,15 @@
+/home/isidsouk/lab05
+log
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 437243      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1252/isidsouk)   Gid: ( 1254/isidsouk)
+Access: 2025-01-07 19:47:07.242024161 +0200
+Modify: 2025-01-07 19:47:07.242024161 +0200
+Change: 2025-01-07 19:47:07.242024161 +0200
+ Birth: -
+./filename
+This is a lab05 exercise.
+This is a lab05 exercise.
+This is a lab05 exercise.
+This is a lab05 exercise.
